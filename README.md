@@ -91,12 +91,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://codepen.io/sachuverma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codepen.svg" alt="sachuverma" height="40" width="40" /></a>
-  <a href="https://twitter.com/sachuverma_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="sachuverma_" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/sachuverma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="sachuverma" height="40" width="40" /></a>
-  <a href="https://instagram.com/sachuverma_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="sachuverma_" height="40" width="40" /></a>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
@@ -105,4 +99,11 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="trophy">
   </a>
+</p>
+
+<p align="center">
+  <a href="https://codepen.io/sachuverma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codepen.svg" alt="sachuverma" height="40" width="40" /></a>
+  <a href="https://twitter.com/sachuverma_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="sachuverma_" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/sachuverma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="sachuverma" height="40" width="40" /></a>
+  <a href="https://instagram.com/sachuverma_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="sachuverma_" height="40" width="40" /></a>
 </p>

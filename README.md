@@ -15,12 +15,36 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Currently orchestrating <strong>vKarma Wealth Ecosystem</strong>
-- 🌱 Always deepening expertise in <strong>Django and React.js</strong>
-- 💬 Ask me about <strong>Revolutionizing Web Development</strong>
-- 😄 Open to <strong>Strategic Internship Opportunities</strong>
-- ⚡ Fun fact: Unrivaled love for <strong>Anime</strong>❤
-- 📫 Connect with me: <strong>7daypaydays@gmail.com</strong>
+<h4>Endeavors in Progress:</h4>
+<ul>
+  <li>Guiding the <strong>vKarma Wealth Ecosystem</strong> towards unparalleled success</li>
+</ul>
+
+<h4>Continuous Mastery:</h4>
+<ul>
+  <li>Continuously enhancing my mastery of <strong>Django</strong> and <strong>React.js</strong></li>
+</ul>
+
+<h4>Expertise to Share:</h4>
+<ul>
+  <li>Feel free to inquire about my insights into <strong>Revolutionizing Web Development</strong></li>
+</ul>
+
+<h4>Strategic Pathways:</h4>
+<ul>
+  <li>Actively considering <strong>Strategic Internship Opportunities</strong></li>
+</ul>
+
+<h4>Unveiling a Quirk:</h4>
+<ul>
+  <li>Delving into a realm of <strong>Anime</strong> with an unwavering affection ❤</li>
+</ul>
+
+<h4>Let's Connect:</h4>
+<ul>
+  <li>Reach out to me at <strong>7daypaydays@gmail.com</strong></li>
+</ul>
+
 
 <h4>Languages of Power: </h4>
 <p align="left">

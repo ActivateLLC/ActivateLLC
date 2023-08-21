@@ -1,23 +1,4 @@
-![via GIFER](https://i.gifer.com/XDZT.gif)
 
-<a href="https://www.linkedin.com/in/sachuverma/">
-  <img src="https://img.shields.io/badge/linkedin-sachuverma-blue" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/sachuverma_/">
-  <img src="https://img.shields.io/badge/instagram-sachuverma_-red" alt="Instagram">
-</a>
-
-
-<p>
-  <a href="https://www.linkedin.com/in/AaronAldana/">
-    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue" alt="LinkedIn">
-  </a>
-  
-  <a href="https://www.instagram.com/sachuverma_/">
-    <img src="https://img.shields.io/badge/instagram-sachuverma_-red" alt="Instagram">
-  </a>
-</p>
 
 
 <h3 align="center">Master of Finance, Machine Learning, and Full Stack Development</h3>

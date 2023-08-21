@@ -1,4 +1,7 @@
-![GIF](https://i.gifer.com/LCPT.gif)
+<p align="center">
+  <img src="https://i.gifer.com/LCPT.gif" width="60">  
+</p>
+
 
 
 

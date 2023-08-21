@@ -17,7 +17,7 @@
 
 <h4>Endeavors in Progress:</h4>
 <ul>
-  <li>Guiding the <strong>vKarma Wealth Ecosystem</strong> towards unparalleled success</li>
+  <li>Guiding the <strong>NextFriday Wealth Ecosystem</strong> towards unparalleled success</li>
 </ul>
 
 <h4>Continuous Mastery:</h4>

@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://i.gifer.com/LCPT.gif" width="60">  
+  <img src="https://i.gifer.com/LCPT.gif" width="60">
 </p>
-
-
-
 
 <h3 align="center">Master of Finance, Machine Learning, and Full Stack Development</h3>
 <h3 align="center">Envisioning the Future of AI</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sachinverma53121" alt="sachinverma53121"/>
+</p>
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<p align="center">
+  <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+</p>
 
 <h4>Endeavors in Progress:</h4>
 <ul>

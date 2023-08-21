@@ -92,10 +92,10 @@
 
 
 <p align="center">
-  <a href=https://codepen.io/sachuverma target="blank"><img align="center" src=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codepen.svg alt="sachuverma" height="40" width="40" /></a>
-  <a href=https://twitter.com/sachuverma_ target="blank"><img align="center" src=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg alt="sachuverma_" height="40" width="40" /></a>
-  <a href=https://linkedin.com/in/sachuverma target="blank"><img align="center" src=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg alt="sachuverma" height="40" width="40" /></a>
-  <a href=https://instagram.com/sachuverma_ target="blank"><img align="center" src=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg alt="sachuverma_" height="40" width="40" /></a>
+  <a href="https://codepen.io/sachuverma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codepen.svg" alt="sachuverma" height="40" width="40" /></a>
+  <a href="https://twitter.com/sachuverma_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="sachuverma_" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/sachuverma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="sachuverma" height="40" width="40" /></a>
+  <a href="https://instagram.com/sachuverma_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="sachuverma_" height="40" width="40" /></a>
 </p>
 
 <p align="center">

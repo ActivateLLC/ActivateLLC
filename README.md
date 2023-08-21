@@ -1,4 +1,4 @@
-..<h1 align="center">Greetings <img src="https://gifer.com/en/XDZT" width="30px">, I am the 'ActivatedOne'</h1>
+..<h1 align="center">Greetings <img src="[https://gifer.com/en/XDZT](https://i.gifer.com/XDZT.gif)" width="30px">, I am the 'ActivatedOne'</h1>
 <p align="center"><br/>
   <a href="https://www.linkedin.com/in/sachuverma/">
     <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">

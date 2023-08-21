@@ -1,5 +1,7 @@
-..<h1 align="center">Greetings <img src="https://i.gifer.com/XDZT.mp4" width="30px">, I am the 'ActivatedOne'</h1>
-<p align="center"><br/>
+<div style="padding-top:100.000%;position:relative;">
+  <iframe src="https://gifer.com/embed/XDZT" width="100%" height="100%" style="position:absolute;top:0;left:0;" frameBorder="0" allowFullScreen></iframe>
+</div>
+<p><a href="https://gifer.com">via GIFER</a></p>
 
   <a href="https://www.linkedin.com/in/sachuverma/">
     <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">

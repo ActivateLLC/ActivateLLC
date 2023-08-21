@@ -1,10 +1,16 @@
-<div style="padding-top: 100.000%; position: relative;">
-  <iframe src="https://gifer.com/embed/XDZT" width="480" height="480" frameBorder="0" allowFullScreen></iframe>
-  <p><a href="https://gifer.com">via GIFER</a></p>
-</div>
+![via GIFER](https://i.gifer.com/XDZT.gif)
+
+<a href="https://www.linkedin.com/in/sachuverma/">
+  <img src="https://img.shields.io/badge/linkedin-sachuverma-blue" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/sachuverma_/">
+  <img src="https://img.shields.io/badge/instagram-sachuverma_-red" alt="Instagram">
+</a>
+
 
 <p>
-  <a href="https://www.linkedin.com/in/sachuverma/">
+  <a href="https://www.linkedin.com/in/AaronAldana/">
     <img src="https://img.shields.io/badge/linkedin-sachuverma-blue" alt="LinkedIn">
   </a>
   

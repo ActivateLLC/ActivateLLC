@@ -1,18 +1,18 @@
-<div style="padding-top:100.000%;position:relative;">
- <iframe src="https://gifer.com/embed/XDZT" width="480" height="480" frameBorder="0" allowFullScreen></iframe>
-<p><a href="https://gifer.com">via GIFER</a></p>
-
+<div style="padding-top: 100.000%; position: relative;">
+  <iframe src="https://gifer.com/embed/XDZT" width="480" height="480" frameBorder="0" allowFullScreen></iframe>
+  <p><a href="https://gifer.com">via GIFER</a></p>
 </div>
-<p><a href="https://gifer.com">via GIFER</a></p>
 
+<p>
   <a href="https://www.linkedin.com/in/sachuverma/">
-    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
+    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue" alt="LinkedIn">
   </a>
   
   <a href="https://www.instagram.com/sachuverma_/">
-    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
+    <img src="https://img.shields.io/badge/instagram-sachuverma_-red" alt="Instagram">
   </a>
 </p>
+
 
 <h3 align="center">Master of Finance, Machine Learning, and Full Stack Development</h3>
 <h3 align="center">Envisioning the Future of AI</h3>

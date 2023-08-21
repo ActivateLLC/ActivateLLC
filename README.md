@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm the ActivatedOne</h1>
- <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/sachuverma/">
+<h1 align="center">Greetings <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am the ActivatedOne</h1>
+<p align="center"><br/>
+  <a href="https://www.linkedin.com/in/sachuverma/">
     <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
   </a>
   
@@ -9,28 +9,27 @@
   </a>
 </p>
 
-<h3 align="center">A passionate fullstack developer from India</h3>
-<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
+<h3 align="center">Master of Finance, Machine Learning, and Full Stack Development</h3>
+<h3 align="center">Envisioning the Future of AI</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
-
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 🔭 Currently orchestrating <strong>vKarma Wealth Ecosystem</strong>
+- 🌱 Always deepening expertise in <strong>Django and React.js</strong>
+- 💬 Ask me about <strong>Revolutionizing Web Development</strong>
+- 😄 Open to <strong>Strategic Internship Opportunities</strong>
+- ⚡ Fun fact: Unrivaled love for <strong>Anime</strong>❤
+- 📫 Connect with me: <strong>7daypaydays@gmail.com</strong>
 
-- 🔭 I’m currently working on **vKarma Webapp**
-- 🌱 I’m currently learning ... **Django and React.js**
-- 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Anime**❤
-- 📫 How to reach me **7daypaydays@gmail.com**
-<h4>Programming Languages: </h4>
+<h4>Languages of Power: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
 </p>
 
-<h4>Skills and Tools: </h4>
+<h4>Tools and Skills: </h4>
 <p align="left">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
@@ -55,10 +54,9 @@
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=heroku width="60" height="60"/>
- 
 </p>
 
-<h4>Desktop Environment: </h4>
+<h4>Commanding the Desktop: </h4>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
@@ -73,10 +71,12 @@
 </p>
 
 <p align="center">
-<a href=https://codepen.io/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="sachuverma" height="40" width="40" /></a>
-<a href=https://twitter.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="sachuverma_" height="40" width="40" /></a>
-<a href=https://linkedin.com/in/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="sachuverma" height="40" width="40" /></a>
-<a href=https://instagram.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sachuverma_" height="40" width="40" /></a>
+  <a href=https://codepen.io/sachuverma target="blank"><img align="center" src=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codepen.svg alt="sachuverma" height="40" width="40" /></a>
+  <a href=https://twitter.com/sachuverma_ target="blank"><img align="center" src=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg alt="sachuverma_" height="40" width="40" /></a>
+  <a href=https://linkedin.com/in/sachuverma target="blank"><img align="center" src=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg alt="sachuverma" height="40" width="40" /></a>
+  <a href=https://instagram.com/sachuverma_ target="blank"><img align="center" src=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg alt="sachuverma_" height="40" width="40" /></a>
 </p>
 
- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```El Psy Kongroo```
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
+</p>

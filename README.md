@@ -91,8 +91,9 @@
 </p>
 
 <p align="center">
-	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=ActivateLLCshow_icons=true alt=ActivateLLC /> 
+	<img style="margin: auto;" src="https://github-readme-stats.vercel.app/api?username=ActivateLLC&show_icons=true" alt="ActivateLLC" /> 
 </p>
+
 
 <p align="center">
   <a href=https://codepen.io/sachuverma target="blank"><img align="center" src=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codepen.svg alt="sachuverma" height="40" width="40" /></a>

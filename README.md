@@ -107,7 +107,7 @@
 
 <p align="center">
   <a href="https://codepen.io/ActivatedOne" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codepen.svg" alt="activatedOne" height="40" width="40" /></a>
-  <a href="https://twitter.com/capcart_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="activatedOne" height="40" width="40" /></a>
+  <a href="https://twitter.com/capcart" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="activatedOne" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/aaron-aldana-a0147458" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="sachuverma" height="40" width="40" /></a>
   <a href="https://instagram.com/sachuverma_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="activate_global_" height="40" width="40" /></a>
 </p>

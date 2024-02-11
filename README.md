@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://i.gifer.com/LCPT.gif" width="60">
+  <img src="https://www.imghippo.com/i/XWqsc1707620604.jpg" width="60">
 </p>
 
 <h3 align="center">Master of Finance, Machine Learning, and Full Stack Development</h3>

@@ -1,6 +1,6 @@
 <h1 align="center">ActivatedOne</h1>
 
-https://ibb.co/dW3WVh3
+
 <p align="center">
   <img src="https://ibb.co/dW3WVh3" width="60">
 </p>

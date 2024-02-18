@@ -1,8 +1,8 @@
-Mmmm<h1 align="center">ActivatedOne</h1>
+<h1 align="center">ActivatedOne</h1>
 
 https://ibb.co/dW3WVh3
 <p align="center">
-  <img src="https://www.imghippo.com/i/XWqsc1707620604.jpg" width="60">
+  <img src="https://ibb.co/dW3WVh3" width="60">
 </p>
 
 <h3 align="center">Master of Finance, Machine Learning, and Full Stack Development</h3>

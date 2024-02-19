@@ -1,7 +1,7 @@
 <h1 align="center">ActivatedOne</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/6npnTdp/IMG-0846.jpg" width="60">
+  <img src="https://s65-hzfi.freeconvert.com/task/65d289ccda5154f8baa6cd42/IMG-0846-removebg-preview.png" width="60">
 </p>
 
 <h3 align="center">Master of Finance, Machine Learning, and Full Stack Development</h3>

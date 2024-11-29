@@ -111,3 +111,29 @@
   <a href="https://www.linkedin.com/in/aaron-aldana-a0147458" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="sachuverma" height="40" width="40" /></a>
   <a href="https://instagram.com/sachuverma_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="activate_global_" height="40" width="40" /></a>
 </p>
+### 🏆 Our Achievements
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=ActivateLLC&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=ActivateLLC&theme=onedark" alt="ActivateLLC's Trophies" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ActivateLLC&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🌐 Connect With Us
+<p align="center">
+  <a href="https://twitter.com/ActivateLLC" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/activate-llc" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+</p>
+

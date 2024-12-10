@@ -19,7 +19,6 @@
 - 🌟 Advancing AI integration in financial technology
 - 🔧 Mastering modern web architectures with **Django** & **React.js**
 - 📚 Exploring cutting-edge ML/AI implementations
-
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
@@ -59,7 +58,6 @@
 ![Python Finance](https://img.shields.io/badge/Financial_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Quantitative Trading](https://img.shields.io/badge/Quantitative_Trading-091C2B?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Risk Management](https://img.shields.io/badge/Risk_Management-384C60?style=for-the-badge&logo=line&logoColor=white)
-
 ### 🌟 Expertise
 
 - **Full Stack Development**: Building scalable, secure web applications

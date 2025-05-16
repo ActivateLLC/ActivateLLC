@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=ACTIVATE;🚀+INNOVATION+UNLEASHED+🚀;💡+AI+%7C+FINTECH+%7C+ENTERPRISE+💡;Tomorrow's+Technology+Today" alt="ActivateLLC Animated Title" />
 </div>
 
-<div align="center">
-  <img src="blob:https://chatgpt.com/a6aae5e9-a561-4810-9408-140eaca53658" width="120" alt="Activate LLC Logo">
+
   
   <h2>🚀 Activate Your Vision • Accelerate Your Future 🚀</h2>
   

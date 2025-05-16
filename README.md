@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://s65-hzfi.freeconvert.com/task/65d289ccda5154f8baa6cd42/IMG-0846-removebg-preview.png" width="120" alt="Activate LLC Logo">
+  <img src="blob:https://chatgpt.com/a6aae5e9-a561-4810-9408-140eaca53658" width="120" alt="Activate LLC Logo">
   
   <h2>🚀 Activate Your Vision • Accelerate Your Future 🚀</h2>
   

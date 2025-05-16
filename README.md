@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=ACTIVATE+LLC;🚀+INNOVATION+UNLEASHED+🚀;💡+AI+%7C+FINTECH+%7C+ENTERPRISE+💡" alt="ActivateLLC Animated Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=ACTIVATE;🚀+INNOVATION+UNLEASHED+🚀;💡+AI+%7C+FINTECH+%7C+ENTERPRISE+💡" alt="ActivateLLC Animated Title" />
 </div>
 
 <div align="center">

@@ -1,8 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="60" height="60" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="30" cy="30" r="29" fill="#0F172A"/>
-    <path d="M30 10 L45 20 L45 40 L30 50 L15 40 L15 20 Z" fill="none" stroke="#4F46E5" stroke-width="2"/>
-    <circle cx="30" cy="30" r="10" fill="#8B5CF6"/>
-    <circle cx="30" cy="30" r="5" fill="#0F172A"/>
-    <path d="M15 20 L45 40 M45 20 L15 40" stroke="#4F46E5" stroke-width="1"/>
+<svg viewBox="0 0 160 180" xmlns="http://www.w3.org/2000/svg">
+  <!-- Optional: Background, if you want to reproduce the image exactly.
+       For a logo, typically background is transparent or defined by context.
+  <rect width="100%" height="100%" fill="#1A233B"/>
+  -->
+
+  <!-- A-glyph group. Scaled and positioned.
+       Original coordinates were designed for a 100x100 local space.
+       We scale it to fit nicely. Let's make it 120 wide, keeping aspect ratio (120x96).
+       And position it. Viewbox width 160. Centered: (160-120)/2 = 20.
+       Glyph from y=10 to y=90 in its 100-unit height space (actual height 80 units).
+       Scaled height: 80 * 1.2 = 96.
+       Top of A at y=10, scaled becomes 10*1.2 = 12.
+  -->
+  <g id="logo_A_glyph" transform="translate(20, 10) scale(1.2)">
+    <!-- A_Top_Part -->
+    <path d="M 15 10 L 85 10 L 95 43 L 80 42 L 20 40 L 5 40 Z" fill="#FFFFFF"/>
+    <!-- A_Bottom_Left_Leg -->
+    <path d="M 0 90 L 2 50 L 18 52 L 25 90 Z" fill="#FFFFFF"/>
+    <!-- A_Bottom_Right_Leg -->
+    <path d="M 100 90 L 75 90 L 82 53 L 98 51 Z" fill="#FFFFFF"/>
+    <!-- Swoosh_Path -->
+    <path d="M 20 40 C 40 30, 60 30, 80 42 L 95 43 L 98 51 L 82 53 C 60 65, 40 65, 18 52 L 2 50 L 5 40 Z" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Text "ACTIVATE" -->
+  <!-- A-glyph bottom is at 10 (translate Y) + 90*1.2 (scaled bottom Y of A-glyph parts) = 10 + 108 = 118 -->
+  <!-- Text Y position: 118 (bottom of A) + 15 (spacing) + 20 (font-size, for baseline) = 153 -->
+  <text x="80" y="153" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">
+    ACTIVATE
+  </text>
 </svg>

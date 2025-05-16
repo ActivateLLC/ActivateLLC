@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=ACTIVATE;🚀+ +INNOVATION+UNLEASHED+🚀;💡+AI+%7C+FINTECH+%7C+ENTERPRISE+💡" alt="ActivateLLC Animated Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=ACTIVATE+LLC;🚀+INNOVATION+UNLEASHED+🚀;💡+AI+%7C+FINTECH+%7C+ENTERPRISE+💡;Building+Tomorrow's+Technology+Today" alt="ActivateLLC Animated Title" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
   </h2>
   
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=36BCF7&center=true&vCenter=true&width=800&lines=Technology+%26+Business+Solutions;Full-Stack+Development+%7C+AI+Innovation+%7C+Enterprise+Systems;Delivering+Next-Generation+Financial+Technology;9%2B+Years+of+Proven+Excellence" alt="Company Description" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=36BCF7&center=true&vCenter=true&width=900&lines=Technology+%26+Business+Solutions;Full-Stack+Development+%7C+AI+Innovation+%7C+Enterprise+Systems;Delivering+Next-Generation+Financial+Technology;9%2B+Years+of+Proven+Excellence+%7C+145%2B+Active+Projects" alt="Company Description" />
   </div>
   
   <br/>

@@ -1,32 +1,62 @@
-# <div align="center">ActivateLLC</div>
+# <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=ACTIVATE+LLC;🚀+INNOVATION+UNLEASHED+🚀;💡+AI+%7C+FINTECH+%7C+ENTERPRISE+💡" alt="ActivateLLC Animated Title" />
+</div>
 
 <div align="center">
-  <img src="https://s65-hzfi.freeconvert.com/task/65d289ccda5154f8baa6cd42/IMG-0846-removebg-preview.png" width="80">
+  <img src="https://s65-hzfi.freeconvert.com/task/65d289ccda5154f8baa6cd42/IMG-0846-removebg-preview.png" width="120" style="border-radius: 50%; box-shadow: 0 0 30px rgba(0, 217, 255, 0.5); animation: pulse 2s infinite;">
   
-  <h2>🚀 Activate Your Vision • Accelerate Your Future</h2>
-  <h3>Technology & Business Solutions</h3>
-  <p><strong>Delivering Innovative Financial Technology, AI Integration & Development Platforms</strong></p>
+  <h2 style="background: linear-gradient(45deg, #00D9FF, #FF6B6B, #4ECDC4); -webkit-background-clip: text; color: transparent; font-size: 2.5em;">
+    🚀 Activate Your Vision • Accelerate Your Future 🚀
+  </h2>
   
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=36BCF7&center=true&vCenter=true&width=800&lines=Technology+%26+Business+Solutions;Full-Stack+Development+%7C+AI+Innovation+%7C+Enterprise+Systems;Delivering+Next-Generation+Financial+Technology;9%2B+Years+of+Proven+Excellence" alt="Company Description" />
+  </div>
+  
+  <br/>
+  
+  <!-- Animated Statistics -->
   <p>
-    <img src="https://img.shields.io/badge/Projects-145+-brightgreen?style=flat-square" alt="Projects">
-    <img src="https://img.shields.io/badge/Years%20Active-9+-blue?style=flat-square" alt="Years Active">
-    <img src="https://komarev.com/ghpvc/?username=ActivateLLC&style=flat-square&color=blue" alt="Profile views">
+    <img src="https://img.shields.io/badge/Projects-145+-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=success&animation=pulse" alt="Projects">
+    <img src="https://img.shields.io/badge/Years%20Active-9+-blue?style=for-the-badge&logo=calendar&logoColor=white&labelColor=black&color=informational" alt="Years Active">
+    <img src="https://komarev.com/ghpvc/?username=ActivateLLC&style=for-the-badge&color=blueviolet&labelColor=black" alt="Profile views">
   </p>
   
+  <!-- Interactive Social Links with Hover Effects -->
   <p>
     <a href="https://www.linkedin.com/in/aaron-aldana-a0147458">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-Aaron%20Aldana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
     </a>
     <a href="mailto:7daypaydays@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Email-Business%20Inquiries-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email">
     </a>
     <a href="https://twitter.com/capcart">
-      <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+      <img src="https://img.shields.io/badge/Twitter-Follow%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter">
     </a>
     <a href="https://codepen.io/ActivatedOne">
-      <img src="https://img.shields.io/badge/CodePen-Follow-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
+      <img src="https://img.shields.io/badge/CodePen-Live%20Demos-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000" alt="CodePen">
     </a>
   </p>
+  
+  <br/>
+  
+  <!-- Animated Tech Icons -->
+  <p>
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  </p>
+  
+  <br/>
+  
+  <!-- Live Activity Indicator -->
+  <div>
+    <img src="https://img.shields.io/badge/Status-🟢%20Active%20Development-success?style=for-the-badge&labelColor=black&color=brightgreen" alt="Status">
+    <img src="https://img.shields.io/badge/Response%20Time-⚡%20Within%2024hrs-orange?style=for-the-badge&labelColor=black&color=orange" alt="Response Time">
+  </div>
 </div>
 
 ---

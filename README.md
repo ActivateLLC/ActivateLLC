@@ -1,13 +1,11 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=ACTIVATE;🚀+INNOVATION+UNLEASHED+🚀;💡+AI+%7C+FINTECH+%7C+ENTERPRISE+💡;Tomorrow's+Technology+Today" alt="ActivateLLC Animated Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=ACTIVATE+LLC;🚀+INNOVATION+UNLEASHED+🚀;💡+AI+%7C+FINTECH+%7C+ENTERPRISE+💡;Building+Tomorrow's+Technology+Today" alt="ActivateLLC Animated Title" />
 </div>
 
 <div align="center">
-  <img src="https://s65-hzfi.freeconvert.com/task/65d289ccda5154f8baa6cd42/IMG-0846-removebg-preview.png" width="120" style="border-radius: 50%; box-shadow: 0 0 30px rgba(0, 217, 255, 0.5); animation: pulse 2s infinite;">
+  <img src="https://s65-hzfi.freeconvert.com/task/65d289ccda5154f8baa6cd42/IMG-0846-removebg-preview.png" width="120" alt="Activate LLC Logo">
   
-  <h2 style="background: linear-gradient(45deg, #00D9FF, #FF6B6B, #4ECDC4); -webkit-background-clip: text; color: transparent; font-size: 2.5em;">
-    🚀 Activate Your Vision • Accelerate Your Future 🚀
-  </h2>
+  <h2>🚀 Activate Your Vision • Accelerate Your Future 🚀</h2>
   
   <div>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=36BCF7&center=true&vCenter=true&width=900&lines=Technology+%26+Business+Solutions;Full-Stack+Development+%7C+AI+Innovation+%7C+Enterprise+Systems;Delivering+Next-Generation+Financial+Technology;9%2B+Years+of+Proven+Excellence+%7C+145%2B+Active+Projects" alt="Company Description" />
